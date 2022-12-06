@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS carechat_db;
+CREATE DATABASE carechat_db;
